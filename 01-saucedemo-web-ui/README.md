@@ -75,19 +75,19 @@
 
 ### Карта функциональности
 
-`product-map.md`
+[product-map.md](product-map.md)
 
 Структурированное представление основных разделов и функций приложения.
 
 ### Чек-лист
 
-`checklist.md`
+[checklist.md](checklist.md)
 
 Набор проверок основных пользовательских функций.
 
 ### Тест-кейсы
 
-`test-cases.md`
+[test-cases.md](test-cases.md)
 
 12 подробных тест-кейсов с:
 
@@ -98,7 +98,7 @@
 
 ### Баг-репорты
 
-`bug-reports.md`
+[bug-reports.md](bug-reports.md)
 
 7 воспроизводимых дефектов с описанием:
 
