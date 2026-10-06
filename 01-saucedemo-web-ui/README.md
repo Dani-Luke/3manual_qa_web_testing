@@ -16,22 +16,22 @@
 
 ### In Scope (Входит в область тестирования)
 
-* Authentication
-* Logout
-* Product Catalog
-* Product Sorting
-* Product Cards
-* Product Details
-* Add to Cart
-* Remove from Cart
-* Cart
-* Checkout
-* Checkout field validation
-* Order Overview
-* Price calculation
-* Order Completion
-* Return to Products
-* PDF Receipt
+* Authentication — Аутентификация
+* Logout — Выход из системы
+* Product Catalog — Каталог товаров
+* Product Sorting — Сортировка товаров
+* Product Cards — Карточки товаров
+* Product Details — Информация о товаре
+* Add to Cart — Добавление товара в корзину
+* Remove from Cart — Удаление товара из корзины
+* Cart — Корзина
+* Checkout — Оформление заказа
+* Checkout field validation — Валидация полей оформления заказа
+* Order Overview — Обзор заказа
+* Price calculation — Расчёт стоимости заказа
+* Order Completion — Завершение заказа
+* Return to Products — Возврат к товарам
+* PDF Receipt — PDF-чек
 * Основные элементы пользовательского интерфейса
 
 ## Test Approach (Подход к тестированию)
