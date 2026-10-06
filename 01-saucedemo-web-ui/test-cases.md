@@ -144,7 +144,7 @@
 
 ---
 
-## TC-7 — Successful Customer Information (Успешное заполнение данных покупателя)
+## TC-07 — Successful Customer Information (Успешное заполнение данных покупателя)
 
 **Preconditions (Предусловия):**
 
