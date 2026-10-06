@@ -1,1 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>QA Training Registration Form</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
 
+<main class="container">
+    <section class="card">
+        <h1>QA Training Registration Form</h1>
+        <p class="subtitle">
+            Educational form for practicing manual testing and test design.
+        </p>
+
+        <form id="registrationForm" novalidate>
+
+            <div class="field">
+                <label for="username">Username</label>
+                <input id="username" name="username" type="text">
+                <span id="usernameError" class="error"></span>
+            </div>
+
+            <div class="field">
+                <label for="email">Email</label>
+                <input id="email" name="email" type="email">
+                <span id="emailError" class="error"></span>
+            </div>
+
+            <div class="field">
+                <label for="password">Password</label>
+                <input id="password" name="password" type="password">
+                <span id="passwordError" class="error"></span>
+            </div>
+
+            <div class="field">
+                <label for="age">Age</label>
+                <input id="age" name="age" type="number" step="1">
+                <span id="ageError" class="error"></span>
+            </div>
+
+            <button type="submit">Register</button>
+
+            <p id="successMessage" class="success"></p>
+
+        </form>
+    </section>
+</main>
+
+<script src="script.js"></script>
+</body>
+</html>
